@@ -1,0 +1,129 @@
+﻿@model TimKiemMonAnViewModel
+
+<div class="container py-4">
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-8">
+            <form method="get" action="@Url.Action("TimKiemMonAn", "Home")" class="search-form">
+                <div class="input-group">
+                    <input type="text" 
+                           class="form-control form-control-lg" 
+                           name="keyword" 
+                           value="@Model.Keyword" 
+                           placeholder="Nhập tên món ăn..."
+                           autocomplete="off">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fas fa-search me-2"></i>Tìm kiếm
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.Keyword))
+    {
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h4>Kết quả tìm kiếm cho: "@Model.Keyword"</h4>
+                    <span class="text-muted">Tìm thấy @Model.TotalItems kết quả</span>
+                </div>
+            </div>
+        </div>
+    }
+
+    @if (!Model.MonAn.Any())
+    {
+        <div class="alert alert-info text-center">
+            <p class="mb-2">Không tìm thấy món ăn nào phù hợp.</p>
+            <div class="mt-3">
+                <a href="@Url.Action("Index", "Home")" class="btn btn-outline-primary me-2">
+                    <i class="fas fa-home me-2"></i>Trang chủ
+                </a>
+                <a href="@Url.Action("TimKiemMonAn", "Home")" class="btn btn-outline-secondary">
+                    <i class="fas fa-sync-alt me-2"></i>Tìm kiếm mới
+                </a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-3 g-4 mb-4">
+            @foreach (var item in Model.MonAn)
+            {
+                @await Html.PartialAsync("PartialMonAnViewModel", item)
+            }
+        </div>
+
+        @if (Model.TotalPages > 1)
+        {
+            <nav aria-label="Page navigation">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                        <a class="page-link" href="@Url.Action("TimKiemMonAn", new { keyword = Model.Keyword, page = Model.CurrentPage - 1 })">
+                            <i class="fas fa-chevron-left"></i>
+                        </a>
+                    </li>
+
+                    @for (int i = 1; i <= Model.TotalPages; i++)
+                    {
+                        <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                            <a class="page-link" href="@Url.Action("TimKiemMonAn", new { keyword = Model.Keyword, page = i })">@i</a>
+                        </li>
+                    }
+
+                    <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                        <a class="page-link" href="@Url.Action("TimKiemMonAn", new { keyword = Model.Keyword, page = Model.CurrentPage + 1 })">
+                            <i class="fas fa-chevron-right"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        }
+    }
+</div>
+
+<style>
+.search-form input:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+    border-color: #80bdff;
+}
+
+.card {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.pagination .page-link {
+    padding: 0.5rem 1rem;
+    margin: 0 3px;
+    border-radius: 4px;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.alert {
+    border-radius: 8px;
+    padding: 2rem;
+}
+
+@@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+    
+    .row-cols-md-3 {
+        row-gap: 1rem;
+    }
+}
+</style>

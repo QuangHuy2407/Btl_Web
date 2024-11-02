@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\models\\qlbandoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:models\\qlbandoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\models\\monanmodel\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:models\\monanmodel\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\AppData\\Local\\Temp\\Zalo Temp\\dee9c48974b3b5a4a7e27a30a01b9fb2~\\FASTFOOD\\Models\\MonAnModel\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\home\\timkiemmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\home\\timkiemmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\shared\\partialmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\shared\\partialmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\shared\\_layoutfein.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\shared\\_layoutfein.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\shared\\components\\tenloaimonanmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\shared\\components\\tenloaimonanmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\home\\chitietmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\home\\chitietmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\cart\\carts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\cart\\carts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\shared\\partialmonanviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\shared\\partialmonanviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\models\\viewmodels\\timkiemmonanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:models\\viewmodels\\timkiemmonanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\AppData\\Local\\Temp\\Zalo Temp\\943707966\\QLBanDoAnContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\shared\\_layoutorgani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\shared\\_layoutorgani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|c:\\users\\phong\\source\\repos\\fastfood\\areas\\admin\\views\\homeadmin\\themmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38312DA4-DD2C-49F7-B650-DF398FF081A8}|FASTFOOD.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\themmonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLBanDoAnContext.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\QLBanDoAnContext.cs",
+              "RelativeDocumentMoniker": "Models\\QLBanDoAnContext.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\QLBanDoAnContext.cs",
+              "RelativeToolTip": "Models\\QLBanDoAnContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:24:19.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\AppData\\Local\\Temp\\Zalo Temp\\dee9c48974b3b5a4a7e27a30a01b9fb2~\\FASTFOOD\\Models\\MonAnModel\\Food.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\dee9c48974b3b5a4a7e27a30a01b9fb2~\\FASTFOOD\\Models\\MonAnModel\\Food.cs",
+              "ToolTip": "C:\\Users\\phong\\AppData\\Local\\Temp\\Zalo Temp\\dee9c48974b3b5a4a7e27a30a01b9fb2~\\FASTFOOD\\Models\\MonAnModel\\Food.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\dee9c48974b3b5a4a7e27a30a01b9fb2~\\FASTFOOD\\Models\\MonAnModel\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:21:11.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:17:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Access\\Login.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:59:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAADMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:41:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartialMonAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\PartialMonAn.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PartialMonAn.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\PartialMonAn.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PartialMonAn.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:10:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:47:03.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\MonAnModel\\Food.cs",
+              "RelativeDocumentMoniker": "Models\\MonAnModel\\Food.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\MonAnModel\\Food.cs",
+              "RelativeToolTip": "Models\\MonAnModel\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:21:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chitietmonan.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Home\\Chitietmonan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Chitietmonan.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Home\\Chitietmonan.cshtml",
+              "RelativeToolTip": "Views\\Home\\Chitietmonan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:09:17.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\Components\\TenLoaiMonAnMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\TenLoaiMonAnMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\Components\\TenLoaiMonAnMenu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\TenLoaiMonAnMenu\\Default.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAwwEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T08:16:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:34:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimKiemMonAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Home\\TimKiemMonAn.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TimKiemMonAn.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Home\\TimKiemMonAn.cshtml",
+              "RelativeToolTip": "Views\\Home\\TimKiemMonAn.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T15:22:41.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Models\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "Models\\NguoiDung.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:00:15.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:36:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:41:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Carts.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Cart\\Carts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Carts.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Cart\\Carts.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Carts.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:08:19.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutFein.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\_LayoutFein.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutFein.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\_LayoutFein.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutFein.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAIAwwEYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:34:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:47:19.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartialMonAnViewModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\PartialMonAnViewModel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PartialMonAnViewModel.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\PartialMonAnViewModel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PartialMonAnViewModel.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T00:39:16.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TimKiemMonAnViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\ViewModels\\TimKiemMonAnViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\TimKiemMonAnViewModel.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\ViewModels\\TimKiemMonAnViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\TimKiemMonAnViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:33:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:29:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QLBanDoAnContext.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\AppData\\Local\\Temp\\Zalo Temp\\943707966\\QLBanDoAnContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\943707966\\QLBanDoAnContext.cs",
+              "ToolTip": "C:\\Users\\phong\\AppData\\Local\\Temp\\Zalo Temp\\943707966\\QLBanDoAnContext.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\943707966\\QLBanDoAnContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:22:46.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Models\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:33:58.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LayoutOrgani.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\_LayoutOrgani.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutOrgani.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\Shared\\_LayoutOrgani.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutOrgani.cshtml",
+              "ViewState": "AQIAADgBAAAAAAAAAAAAADMBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T09:37:21.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:45:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThemMonAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Views\\HomeAdmin\\ThemMonAn.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\ThemMonAn.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\FASTFOOD\\Areas\\Admin\\Views\\HomeAdmin\\ThemMonAn.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\ThemMonAn.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T14:24:22.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using X.PagedList.Mvc.Core;
+@using FASTFOOD.Models;
+@model X.PagedList.IPagedList<MonAn>
+
+@{
+    ViewData["Title"] = "DanhMucMonAn";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh mục các món ăn</h1>
+
+<p>
+    <a asp-action="ThemMonAn">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th class ="table-info">
+                Tên Món Ăn
+            </th>
+            <th class="table-warning">
+                Mô Tả
+            </th>
+            <th class=" table-danger">
+                Giá
+            </th>
+            <th class="table-primary">
+                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr >
+                <td class="table-info">
+                @Html.DisplayFor(modelItem => item.TenMonAn)
+            </td>
+            <td class="table-warning">
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td class="table-danger">
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td class="table-primary">
+                <a asp-action="Suamonan" asp-route-MaMonAn="@item.MaMonAn">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaMonAn">Details</a> |
+                <a asp-action="Xoamonan" asp-route-MaMonAn="@item.MaMonAn">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("DanhMucMonAn", new { page = page }),
+        new PagedListRenderOptions()
+    {
+        LiElementClasses = new List<String> { "page-item" },
+        PageClasses = new List<String> { "page-link" }
+    }
+    )

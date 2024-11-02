@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\images\about-img.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.35" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.35">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.18" />
+    <PackageReference Include="System.Text.Json" Version="6.0.10" />
+    <PackageReference Include="X.PagedList" Version="10.5.3" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="10.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\banh_canh_ghe.jpg" />
+    <None Include="wwwroot\images\banh_cong.jpg" />
+    <None Include="wwwroot\images\banh_xeo.jpg" />
+    <None Include="wwwroot\images\bun_bo_hue.jpg" />
+    <None Include="wwwroot\images\bun_dau.jpg" />
+    <None Include="wwwroot\images\bun_quay.jpg" />
+    <None Include="wwwroot\images\cao_lau.jpg" />
+    <None Include="wwwroot\images\com.jpg" />
+    <None Include="wwwroot\images\com_tam.jpg" />
+    <None Include="wwwroot\images\cua_rang_muoi.jpg" />
+    <None Include="wwwroot\images\goi_cuon.jpg" />
+    <None Include="wwwroot\images\hu_tieu.jpg" />
+    <None Include="wwwroot\images\lau_ca_keo.jpg" />
+    <None Include="wwwroot\images\mat_ca_ngu.jpg" />
+    <None Include="wwwroot\images\mi_quang.jpg" />
+    <None Include="wwwroot\images\nem_chua.jpg" />
+    <None Include="wwwroot\images\nem_nuong.jpg" />
+    <None Include="wwwroot\images\pho.jpg" />
+    <None Include="wwwroot\images\tre_tron.jpg" />
+    <None Include="wwwroot\LayoutAdmin\.DS_Store" />
+  </ItemGroup>
+
+</Project>

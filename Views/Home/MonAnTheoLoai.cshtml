@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "MonAnTheoLoai";
+    Layout = "~/Views/Shared/_LayoutFein.cshtml";
+}
+
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<MonAn>
+@foreach (var item in Model)
+{
+    @await Html.PartialAsync("PartialMonAn", item)
+}
+
+@section Pagination {
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }),
+                new PagedListRenderOptions()
+        {
+            LiElementClasses = new List<String> { "page-item" },
+            PageClasses = new List<String> { "page-link" }
+        }
+            )
+}
+
